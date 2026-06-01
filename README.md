@@ -14,7 +14,7 @@
 ### 🚀 На Go
 | Проект | Описание | Ключевые технологии |
 |--------|----------|---------------------|
-| **[bookings](https://github.com/coffee22coder/bookings)** | Production-style pet-проект: ports & adapters, typed config (12-factor), graceful patterns, unit/integration tests | Go PostgreSQL Clean Architecture pgx Docker slog |
+| **[bookings](https://github.com/coffee22coder/bookings)** | Production-style pet-проект: ports & adapters, typed config (12-factor), graceful patterns, unit/integration tests | `Go` `PostgreSQL` `Clean Architecture` `pgx` `Docker` `slog` |
 | **[url_short](https://github.com/coffee22coder/url_short)** | Сервис сокращения ссылок: сохранение/редирект, Basic Auth, хранение в SQLite | `Go` `Chi` `Clean Architecture` `Validator` `Config` `Tests` |
 | **[bot-read-adviser](https://github.com/coffee22coder/bot-read-adviser)** | Telegram-бот: сохраняет ссылки «почитать потом», выдаёт случайную, удаляет после просмотра | `Go` `Telegram Bot API` `File Storage` `Concurrency` |
 
