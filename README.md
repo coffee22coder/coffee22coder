@@ -46,7 +46,7 @@
 
 ## 📬 Контакты
 
-- 📧 **Email**: `coffee-coder@ya.ru` *(замени на свой)*
+- 📧 **Email**: `coffee-coder@ya.ru`
 - 💬 **Telegram**: `@ermes_22`
 
 > 💡 **Открыт к предложениям**: **Go Backend - разработчик**
