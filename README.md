@@ -23,6 +23,7 @@
 |--------|----------|---------------------|
 | **[telegram-translator-bot](https://github.com/coffee22coder/telegram-translator-bot)** | Бот для перевода сообщений в группах (текст + голос) через Yandex APIs | `NestJS` `Prisma` `PostgreSQL` `Docker` `Yandex Cloud` |
 | **[kate-gallery](https://github.com/coffee22coder/kate-gallery)** | Персональная галерея для семьи | `TypeScript` `React` |
+| **[developer-quest](https://coffee22coder.github.io/developer-quest/)** | Квест-портфолио | `HTML` `CSS` `JavaScript` |
 
 ---
 
@@ -34,19 +35,12 @@
 - **Контейнеризация**: `Docker` + `docker-compose` для локального запуска
 - **CI/CD**: настраиваю GitHub Actions для линта и тестов
 
----
-
-## 📈 В процессе изучения
-
-- [ ] Углубляюсь в `context`, `sync`, `pprof` для отладки конкурентности
-- [ ] Практикую `gRPC`, миграции на `ClickHouse`, кэширование в `Redis`
-- [ ] Изучаю паттерны наблюдаемости: `OpenTelemetry`, `Prometheus`, `Grafana`
 
 ---
 
 ## 📬 Контакты
 
-- 📧 **Email**: `coffee-coder@ya.ru`
-- 💬 **Telegram**: `@ermes_22`
+- 📧 **Email**: `ermakov.go@mail.ru`
+- 💬 **Telegram**: `@ermakov_jenya`
 
 > 💡 **Открыт к предложениям**: **Go Backend - разработчик**
